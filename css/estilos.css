@@ -1,0 +1,30 @@
+body {
+         background: #FAAACE; 
+          
+      }
+
+      body{
+         color: #782E4F;
+         font-family: sans-serif;
+
+      }
+      h1{
+         color: #7A1C47;
+      }
+      a:link{
+         color: #FFFFFF;
+         font-family: sans-serif;
+         text-decoration: none;
+      }
+      a:visited{
+         color: #FAAACE;
+      }
+      a:hover{
+         text-decoration: underline;
+         background-color: #C44B81;
+      }
+      h2{
+         color:  #7A1C47; 
+      }
+
+  
